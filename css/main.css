@@ -1,0 +1,44 @@
+header{
+  background-color: #34495E;
+  width: 100%;
+  height: 90px;
+  color: #fff;
+  position: fixed;
+  font: 100% sans-serif;
+}
+
+body{
+  font-family: sans-serif;
+    font-style: normal;
+  }
+  .Menu{
+    color: #fff;
+    font: 90% sans-serif;
+
+  }
+
+section{
+  width: 100%;
+  margin-bottom: 25px;
+  text-align: center;
+}
+p{
+  font-style: oblique;
+  color: #212F3C;
+  text-align: center;
+}
+img{
+  width: 25%;
+    display: inline-block;
+    /* border: 1px solid black; */
+    margin-left: 40px;
+    height: 40%;
+    margin-top: 2em;
+}
+
+footer{
+  text-align: center;
+}
+a{
+  text-align: left;
+}
